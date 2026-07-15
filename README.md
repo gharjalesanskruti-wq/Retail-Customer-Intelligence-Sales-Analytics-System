@@ -24,7 +24,7 @@ The main objective of this project is to analyze customer shopping behavior and 
 The project follows an end-to-end data analytics workflow, starting from data collection to business insights.
 
 <p align="center">
-  <img src="Images/Project_Workflow.png" width="750">
+  <img src="Project_Workflow.png" width="750">
 </p>
 
 
